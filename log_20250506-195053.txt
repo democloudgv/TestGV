@@ -1,0 +1,142 @@
+2025-05-06 19:09:08 - === Fase 7: Ejecución Completa ===
+2025-05-06 19:09:08 - === Fase 1: Información Básica ===
+2025-05-06 19:09:08 - Hostname: WIN2K16-CL-XPERIENCES
+2025-05-06 19:09:08 - Usuario: Administrator
+2025-05-06 19:09:08 - Dominio: WIN2K16-CL-XPER
+2025-05-06 19:09:09 - Sistema Operativo: Win32_OperatingSystem: Microsoft Windows Server 2016 Standard.Caption
+2025-05-06 19:09:09 - === Fase 2: Recursos Compartidos ===
+2025-05-06 19:09:09 - Recurso Compartido: IPC$ - Path: 
+2025-05-06 19:09:09 - Recurso Compartido: Users - Path: C:\Users
+2025-05-06 19:09:09 - === Fase 3: Usuarios de Dominio ===
+2025-05-06 19:09:09 - Usuarios de dominio:
+The request will be processed at a domain controller for domain WORKGROUP.  System error 1355 has occurred. 
+ The specified domain either does not exist or could not be contacted.
+ 
+
+2025-05-06 19:09:09 - === Fase 4: Buscar Credenciales en Disco ===
+2025-05-06 19:09:09 - Posible credencial en C:\AtomicRedTeam\atomics\T1053.005\src\T1053.005-macrocode.txt
+2025-05-06 19:09:09 - Posible credencial en C:\AtomicRedTeam\atomics\T1110.001\src\passwords.txt
+2025-05-06 19:09:09 - Posible credencial en C:\AtomicRedTeam\atomics\T1110.003\src\aws_passwords.txt
+2025-05-06 19:09:09 - Posible credencial en C:\AtomicRedTeam\atomics\T1110.004\src\credstuffuserpass.txt
+2025-05-06 19:09:09 - Posible credencial en C:\AtomicRedTeam\atomics\T1555\src\T1555-macrocode.txt
+2025-05-06 19:09:09 - Posible credencial en C:\AtomicRedTeam\atomics\T1595.003\src\wordlist.txt
+2025-05-06 19:09:09 - Posible credencial en C:\Program Files\7-Zip\Lang\ast.txt
+2025-05-06 19:09:09 - Posible credencial en C:\Program Files\7-Zip\Lang\it.txt
+2025-05-06 19:09:10 - Posible credencial en C:\Program Files\Common Files\microsoft shared\ink\Alphabet.xml
+2025-05-06 19:09:10 - Posible credencial en C:\Program Files\Fortinet\FortiEDR\nselib\data\enterprise_numbers.txt
+2025-05-06 19:09:10 - Posible credencial en C:\Program Files\Fortinet\FortiEDR\nselib\data\http-folders.txt
+2025-05-06 19:09:10 - Posible credencial en C:\Program Files\Fortinet\FortiEDR\nselib\data\rtsp-urls.txt
+2025-05-06 19:09:10 - Posible credencial en C:\Program Files\Fortinet\FortiEDR\nselib\data\tftplist.txt
+2025-05-06 19:09:12 - Posible credencial en C:\Users\Administrator\Desktop\XDR_PostExploit_Log.txt
+2025-05-06 19:09:12 - Posible credencial en C:\Users\Administrator\Downloads\dga_test.ps1.txt
+2025-05-06 19:09:14 - Posible credencial en C:\Windows\schemas\CodeIntegrity\ExamplePolicies\VbsSI_Audit.xml
+2025-05-06 19:09:50 - Posible credencial en C:\Windows\servicing\Sessions\Sessions.back.xml
+2025-05-06 19:09:54 - Posible credencial en C:\Windows\servicing\Sessions\Sessions.xml
+2025-05-06 19:09:57 - Posible credencial en C:\Windows\SoftwareDistribution\Download\c361af28821bd6f89c8222c346ac8556\Windows10.0-KB5048671-x64_1.psf.cix.xml
+2025-05-06 19:09:57 - Posible credencial en C:\Windows\SoftwareDistribution\Download\c361af28821bd6f89c8222c346ac8556\windows10.0-kb5048671-x64_2.psf.cix.xml
+2025-05-06 19:09:58 - Posible credencial en C:\Windows\SoftwareDistribution\Download\c361af28821bd6f89c8222c346ac8556\windows10.0-kb5048671-x64_4.psf.cix.xml
+2025-05-06 19:09:58 - Posible credencial en C:\Windows\SoftwareDistribution\Download\c361af28821bd6f89c8222c346ac8556\windows10.0-kb5048671-x64_6.psf.cix.xml
+2025-05-06 19:10:00 - Posible credencial en C:\Windows\SoftwareDistribution\Download\c3f261d439cdc2de776c37f6c62e85d4\Windows10.0-KB5055521-x64_1.psf.cix.xml
+2025-05-06 19:10:00 - Posible credencial en C:\Windows\SoftwareDistribution\Download\c3f261d439cdc2de776c37f6c62e85d4\windows10.0-kb5055521-x64_2.psf.cix.xml
+2025-05-06 19:10:01 - Posible credencial en C:\Windows\SoftwareDistribution\Download\c3f261d439cdc2de776c37f6c62e85d4\windows10.0-kb5055521-x64_4.psf.cix.xml
+2025-05-06 19:10:01 - Posible credencial en C:\Windows\SoftwareDistribution\Download\c3f261d439cdc2de776c37f6c62e85d4\windows10.0-kb5055521-x64_6.psf.cix.xml
+2025-05-06 19:10:02 - Posible credencial en C:\Windows\System32\0409\scregedit.ini
+2025-05-06 19:10:02 - Posible credencial en C:\Windows\System32\DDFs\NGCProDDF_v1.2_final.xml
+2025-05-06 19:10:02 - Posible credencial en C:\Windows\System32\DriverStore\FileRepository\prncacl1.inf_amd64_af6e8c4f138f06d1\CNN08CL1_bidiwsd.xml
+2025-05-06 19:10:02 - Posible credencial en C:\Windows\System32\DriverStore\FileRepository\prncacl2.inf_amd64_43d302547f3b3145\CNN08CL2_bidiwsd.xml
+2025-05-06 19:10:03 - Posible credencial en C:\Windows\System32\DriverStore\FileRepository\prnms009.inf_amd64_bd3f6a64dee1535d\MPDW-PDC.xml
+2025-05-06 19:10:03 - Posible credencial en C:\Windows\System32\DriverStore\FileRepository\prnms009.inf_amd64_bd3f6a64dee1535d\MPDW_devmode_map.xml
+2025-05-06 19:10:03 - Posible credencial en C:\Windows\System32\icsxml\ipcfg.xml
+2025-05-06 19:10:03 - Posible credencial en C:\Windows\System32\icsxml\pppcfg.xml
+2025-05-06 19:10:03 - Posible credencial en C:\Windows\System32\slmgr\0409\slmgr.ini
+2025-05-06 19:10:03 - Posible credencial en C:\Windows\System32\spool\tools\Microsoft Print To PDF\MPDW-PDC.xml
+2025-05-06 19:10:03 - Posible credencial en C:\Windows\System32\spool\tools\Microsoft Print To PDF\MPDW_devmode_map.xml
+2025-05-06 19:10:03 - Posible credencial en C:\Windows\System32\spool\V4Dirs\11D2AB83-B93A-4A09-8F3B-578956240C34\pdc.xml
+2025-05-06 19:10:03 - Posible credencial en C:\Windows\System32\spool\V4Dirs\4DA56117-0760-4631-A254-82045EB52503\pdc.xml
+2025-05-06 19:10:03 - Posible credencial en C:\Windows\System32\spool\V4Dirs\971451D4-FF96-4454-BF4D-3A63DD904891\pdc.xml
+2025-05-06 19:10:03 - Posible credencial en C:\Windows\System32\winrm\0409\winrm.ini
+2025-05-06 19:10:04 - Posible credencial en C:\Windows\SystemApps\Microsoft.AccountsControl_cw5n1h2txyewy\AppxManifest.xml
+2025-05-06 19:10:04 - Posible credencial en C:\Windows\SystemApps\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\AppxManifest.xml
+2025-05-06 19:10:04 - Posible credencial en C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\13.txt
+2025-05-06 19:10:04 - Posible credencial en C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\19.txt
+2025-05-06 19:10:04 - Posible credencial en C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Desktop\21.txt
+2025-05-06 19:10:04 - Posible credencial en C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Mobile\13.txt
+2025-05-06 19:10:04 - Posible credencial en C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Mobile\18.txt
+2025-05-06 19:10:04 - Posible credencial en C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\cache\Mobile\20.txt
+2025-05-06 19:10:04 - Posible credencial en C:\Windows\SysWOW64\0409\scregedit.ini
+2025-05-06 19:10:04 - Posible credencial en C:\Windows\SysWOW64\icsxml\ipcfg.xml
+2025-05-06 19:10:04 - Posible credencial en C:\Windows\SysWOW64\icsxml\pppcfg.xml
+2025-05-06 19:10:04 - Posible credencial en C:\Windows\SysWOW64\slmgr\0409\slmgr.ini
+2025-05-06 19:10:04 - Posible credencial en C:\Windows\SysWOW64\winrm\0409\winrm.ini
+2025-05-06 19:10:05 - Posible credencial en C:\Windows\WinSxS\amd64_ipamprov-dcnps_31bf3856ad364e35_10.0.14393.0_none_cdac19dfa8a77ad1\ScheduledTasks.xml
+2025-05-06 19:10:05 - Posible credencial en C:\Windows\WinSxS\amd64_ipamprov-dhcp_31bf3856ad364e35_10.0.14393.0_none_a19eacea09ae3f5a\ScheduledTasks.xml
+2025-05-06 19:10:05 - Posible credencial en C:\Windows\WinSxS\amd64_ipamprov-dns_31bf3856ad364e35_10.0.14393.0_none_bf00b750ada9b4f8\ScheduledTasks.xml
+2025-05-06 19:10:05 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-a..gement-uevtemplates_31bf3856ad364e35_10.0.14393.953_none_9140e1a7741a19da\MicrosoftOffice2010Win32.xml
+2025-05-06 19:10:05 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-a..gement-uevtemplates_31bf3856ad364e35_10.0.14393.953_none_9140e1a7741a19da\MicrosoftOffice2010Win64.xml
+2025-05-06 19:10:05 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-a..gement-uevtemplates_31bf3856ad364e35_10.0.14393.953_none_9140e1a7741a19da\MicrosoftOffice2013Win32.xml
+2025-05-06 19:10:05 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-a..gement-uevtemplates_31bf3856ad364e35_10.0.14393.953_none_9140e1a7741a19da\MicrosoftOffice2013Win64.xml
+2025-05-06 19:10:05 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-a..gement-uevtemplates_31bf3856ad364e35_10.0.14393.953_none_9140e1a7741a19da\MicrosoftOffice2016Win32.xml
+2025-05-06 19:10:05 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-a..gement-uevtemplates_31bf3856ad364e35_10.0.14393.953_none_9140e1a7741a19da\MicrosoftOffice2016Win64.xml
+2025-05-06 19:10:05 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-a..tscontrol.appxsetup_31bf3856ad364e35_10.0.14393.2068_none_bde5c348725ced9e\AppxManifest.xml
+2025-05-06 19:10:05 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-c..ache.mobile.cortana_31bf3856ad364e35_10.0.14393.0_none_59653c2c9f496d9b\13.txt
+2025-05-06 19:10:06 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-c..ache.mobile.cortana_31bf3856ad364e35_10.0.14393.0_none_59653c2c9f496d9b\18.txt
+2025-05-06 19:10:06 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-c..ache.mobile.cortana_31bf3856ad364e35_10.0.14393.0_none_59653c2c9f496d9b\20.txt
+2025-05-06 19:10:06 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.14393.0_none_ef490e7f29361bad\13.txt
+2025-05-06 19:10:06 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.14393.0_none_ef490e7f29361bad\19.txt
+2025-05-06 19:10:06 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-c..che.desktop.cortana_31bf3856ad364e35_10.0.14393.0_none_ef490e7f29361bad\21.txt
+2025-05-06 19:10:06 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-c..iencehost.appxsetup_31bf3856ad364e35_10.0.14393.1066_none_13f15a1e6a491051\AppxManifest.xml
+2025-05-06 19:10:06 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-c..iser-inboxdatafiles_31bf3856ad364e35_10.0.14393.351_none_ab3f853e7ee5d9a6\hwcompat_RS1.txt
+2025-05-06 19:10:07 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-d..services-adam-setup_31bf3856ad364e35_10.0.14393.0_none_6999a34194d466ca\adamschema.ini
+2025-05-06 19:10:07 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-d..services-adam-setup_31bf3856ad364e35_10.0.14393.7426_none_b1c32755d8ccdc7f\adamschema.ini
+2025-05-06 19:10:07 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-d..services-adam-setup_31bf3856ad364e35_10.0.14393.7783_none_b1a8fda5d8df7b79\adamschema.ini
+2025-05-06 19:10:08 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_10.0.14393.0_none_3e5dde3fcb84fbb3\ASPNET_schema.xml
+2025-05-06 19:10:08 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_10.0.14393.0_none_3e5dde3fcb84fbb3\Ftp_schema.xml
+2025-05-06 19:10:08 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_10.0.14393.0_none_3e5dde3fcb84fbb3\FX_schema.xml
+2025-05-06 19:10:08 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_10.0.14393.0_none_3e5dde3fcb84fbb3\IIS_schema.xml
+2025-05-06 19:10:08 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_10.0.14393.4169_none_86ab89360f61d85f\ASPNET_schema.xml
+2025-05-06 19:10:08 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_10.0.14393.4169_none_86ab89360f61d85f\Ftp_schema.xml
+2025-05-06 19:10:08 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_10.0.14393.4169_none_86ab89360f61d85f\FX_schema.xml
+2025-05-06 19:10:08 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_10.0.14393.4169_none_86ab89360f61d85f\IIS_schema.xml
+2025-05-06 19:10:08 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_10.0.14393.7962_none_8655af000fa1fbf5\ASPNET_schema.xml
+2025-05-06 19:10:08 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_10.0.14393.7962_none_8655af000fa1fbf5\Ftp_schema.xml
+2025-05-06 19:10:08 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_10.0.14393.7962_none_8655af000fa1fbf5\FX_schema.xml
+2025-05-06 19:10:08 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_10.0.14393.7962_none_8655af000fa1fbf5\IIS_schema.xml
+2025-05-06 19:10:09 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-printing-printtopdf_31bf3856ad364e35_10.0.14393.0_none_afa460b75d3e9cbd\MPDW-PDC.xml
+2025-05-06 19:10:09 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-printing-printtopdf_31bf3856ad364e35_10.0.14393.0_none_afa460b75d3e9cbd\MPDW_devmode_map.xml
+2025-05-06 19:10:09 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-s..boot-firmwareupdate_31bf3856ad364e35_10.0.14393.7604_none_2a4c9dae603f54ae\VbsSI_Audit.xml
+2025-05-06 19:10:09 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-s..boot-firmwareupdate_31bf3856ad364e35_10.0.14393.7969_none_2a31bdbe6052c0b0\VbsSI_Audit.xml
+2025-05-06 19:10:09 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-s..ditscript.resources_31bf3856ad364e35_10.0.14393.0_en-us_a42095c1f410943a\scregedit.ini
+2025-05-06 19:10:09 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-s..spp-tools.resources_31bf3856ad364e35_10.0.14393.0_en-us_565c8cb5958eb7d0\slmgr.ini
+2025-05-06 19:10:09 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-security-ngc-csp_31bf3856ad364e35_10.0.14393.2608_none_e110646d6e91b8a3\NGCProDDF_v1.2_final.xml
+2025-05-06 19:10:10 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-sharedaccess_31bf3856ad364e35_10.0.14393.4169_none_7a8f7517a3dbc97a\ipcfg.xml
+2025-05-06 19:10:10 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-sharedaccess_31bf3856ad364e35_10.0.14393.4169_none_7a8f7517a3dbc97a\pppcfg.xml
+2025-05-06 19:10:10 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-sharedaccess_31bf3856ad364e35_10.0.14393.7426_none_7a6b4e35a3f76283\ipcfg.xml
+2025-05-06 19:10:10 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-sharedaccess_31bf3856ad364e35_10.0.14393.7426_none_7a6b4e35a3f76283\pppcfg.xml
+2025-05-06 19:10:10 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-sharedaccess_31bf3856ad364e35_10.0.14393.7783_none_7a512485a40a017d\ipcfg.xml
+2025-05-06 19:10:10 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-sharedaccess_31bf3856ad364e35_10.0.14393.7783_none_7a512485a40a017d\pppcfg.xml
+2025-05-06 19:10:10 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-t..nputpersonalization_31bf3856ad364e35_10.0.14393.4169_none_b56e296720e3b65b\Alphabet.xml
+2025-05-06 19:10:11 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-t..nputpersonalization_31bf3856ad364e35_10.0.14393.6451_none_b54d736520fc1e1d\Alphabet.xml
+2025-05-06 19:10:11 - Posible credencial en C:\Windows\WinSxS\amd64_microsoft-windows-w..ment-core.resources_31bf3856ad364e35_10.0.14393.0_en-us_f1b174a113f1488d\winrm.ini
+2025-05-06 19:10:13 - Posible credencial en C:\Windows\WinSxS\amd64_prncacl1.inf_31bf3856ad364e35_10.0.14393.0_none_b8935be062c969bc\CNN08CL1_bidiwsd.xml
+2025-05-06 19:10:13 - Posible credencial en C:\Windows\WinSxS\amd64_prncacl2.inf_31bf3856ad364e35_10.0.14393.0_none_b91c6e157be7a625\CNN08CL2_bidiwsd.xml
+2025-05-06 19:10:19 - Posible credencial en C:\Windows\WinSxS\wow64_ipamprov-dcnps_31bf3856ad364e35_10.0.14393.0_none_d800c431dd083ccc\ScheduledTasks.xml
+2025-05-06 19:10:19 - Posible credencial en C:\Windows\WinSxS\wow64_ipamprov-dhcp_31bf3856ad364e35_10.0.14393.0_none_abf3573c3e0f0155\ScheduledTasks.xml
+2025-05-06 19:10:19 - Posible credencial en C:\Windows\WinSxS\wow64_ipamprov-dns_31bf3856ad364e35_10.0.14393.0_none_c95561a2e20a76f3\ScheduledTasks.xml
+2025-05-06 19:10:20 - Posible credencial en C:\Windows\WinSxS\wow64_microsoft-windows-sharedaccess_31bf3856ad364e35_10.0.14393.4169_none_84e41f69d83c8b75\ipcfg.xml
+2025-05-06 19:10:20 - Posible credencial en C:\Windows\WinSxS\wow64_microsoft-windows-sharedaccess_31bf3856ad364e35_10.0.14393.4169_none_84e41f69d83c8b75\pppcfg.xml
+2025-05-06 19:10:20 - Posible credencial en C:\Windows\WinSxS\wow64_microsoft-windows-sharedaccess_31bf3856ad364e35_10.0.14393.7426_none_84bff887d858247e\ipcfg.xml
+2025-05-06 19:10:20 - Posible credencial en C:\Windows\WinSxS\wow64_microsoft-windows-sharedaccess_31bf3856ad364e35_10.0.14393.7426_none_84bff887d858247e\pppcfg.xml
+2025-05-06 19:10:20 - Posible credencial en C:\Windows\WinSxS\wow64_microsoft-windows-sharedaccess_31bf3856ad364e35_10.0.14393.7783_none_84a5ced7d86ac378\ipcfg.xml
+2025-05-06 19:10:20 - Posible credencial en C:\Windows\WinSxS\wow64_microsoft-windows-sharedaccess_31bf3856ad364e35_10.0.14393.7783_none_84a5ced7d86ac378\pppcfg.xml
+2025-05-06 19:10:20 - Posible credencial en C:\Windows\WinSxS\wow64_microsoft-windows-w..ment-core.resources_31bf3856ad364e35_10.0.14393.0_en-us_fc061ef348520a88\winrm.ini
+2025-05-06 19:10:20 - Posible credencial en C:\Windows\WinSxS\x86_microsoft-windows-s..ditscript.resources_31bf3856ad364e35_10.0.14393.0_en-us_4801fa3e3bb32304\scregedit.ini
+2025-05-06 19:10:20 - Posible credencial en C:\Windows\WinSxS\x86_microsoft-windows-s..spp-tools.resources_31bf3856ad364e35_10.0.14393.0_en-us_fa3df131dd31469a\slmgr.ini
+2025-05-06 19:10:22 - Posible credencial en C:\Users\Administrator\Desktop\XDR_PostExploit_Log.txt
+2025-05-06 19:10:22 - Posible credencial en C:\Users\Administrator\Downloads\dga_test.ps1.txt
+2025-05-06 19:10:22 - === Fase 5: Verificar Permisos Inseguros ===
+2025-05-06 19:11:13 - Permisos inseguros en C:\Windows\System32\LogFiles\WMI
+2025-05-06 19:11:40 - Fase final: Exfiltración de log
+2025-05-06 19:11:40 - Error exfiltrando log a GitHub: {"message":"Problems parsing JSON","documentation_url":"https://docs.github.com/rest/repos/contents#create-or-update-file-contents","status":"400"}
+2025-05-06 19:41:14 - Fase final: Exfiltración de log
+2025-05-06 19:49:43 - Fase final: Exfiltración de log
+2025-05-06 19:50:53 - Fase final: Exfiltración de log
